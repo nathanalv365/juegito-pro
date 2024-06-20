@@ -1,2 +1,4 @@
-res://main.tscn
+res://player/character_body_2d.tscn
 res://player/character_body_2d.gd
+res://main.gd
+res://main.tscn
