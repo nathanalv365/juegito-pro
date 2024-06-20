@@ -1,15 +1,15 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1718923378
+::res://::1718926182
 icon.svg::CompressedTexture2D::3816119058498032213::1718921879::1718921963::1::::<><>::
 main.gd::GDScript::-1::1718921879::0::1::::<>Node2D<>::
-main.tscn::PackedScene::7747134998304364636::1718922159::0::1::::<><>::res://main.gd
+main.tscn::PackedScene::7747134998304364636::1718923495::0::1::::<><>::res://main.gd
 world.tscn::PackedScene::1500317754658471730::1718921879::0::1::::<><>::uid://tu0jnpca81yq::::res://player/character_body_2d.tscn
 ::res://Music by Pascal Belisle/::1718921962
 music-pascal-public-license.txt::TextFile::-1::1718921878::0::1::::<><>::
 platformer_level03.mp3::AudioStreamMP3::7323857080327666896::1718921878::1718921962::1::::<><>::
 platformer_level03_loop.ogg::AudioStreamOggVorbis::6288551463848379913::1718921878::1718921962::1::::<><>::
-::res://player/::1718921980
-character_body_2d.gd::GDScript::-1::1718921980::0::1::::<>CharacterBody2D<>::
+::res://player/::1718923495
+character_body_2d.gd::GDScript::-1::1718923495::0::1::::<>CharacterBody2D<>::
 character_body_2d.tscn::PackedScene::1376410287235933360::1718921879::0::1::::<><>::res://player/character_body_2d.gd<>uid://6q74dbo5xyuj::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/hurt/player-hurt-1.png<>uid://dxe3qlib51wxb::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/hurt/player-hurt-2.png<>uid://b5rxnkr7wq1al::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/idle/player-idle-1.png<>uid://bcpinoxvnvlas::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/idle/player-idle-2.png<>uid://bb36rli032p0::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/idle/player-idle-3.png<>uid://mn4ifi30asf7::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/idle/player-idle-4.png<>uid://dgwf4a3sdymh7::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/jump/player-jump-1.png<>uid://n8lhuyfyn637::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/jump/player-jump-2.png<>uid://bu1115b7c3cl7::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/run/player-run-1.png<>uid://b0bb0x2ekhjqs::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/run/player-run-2.png<>uid://k6o2t3xwelr8::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/run/player-run-3.png<>uid://cg12yvldtsmoe::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/run/player-run-4.png<>uid://del1rfvsrjl73::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/run/player-run-5.png<>uid://b3q0mglxhtuj0::::res://Sunny Land Collection Files/Assets/Packs/Sunnyland/sprites/player/run/player-run-6.png
 ::res://Sunny Land Collection Files/::1718921879
 ::res://Sunny Land Collection Files/Assets/::1718921879
